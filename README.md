@@ -1,6 +1,8 @@
-# Welcome to Ranger 🎉
+# Testing LiveView 🎉
 
-Ranger is the codebase that accompanies my [Testing LiveView] course.
+Ranger is the codebase that accompanies German Velascos [Testing LiveView] course.
+
+This repo is a detached fork of https://github.com/germsvel/ranger
 
 ## Getting set up
 
