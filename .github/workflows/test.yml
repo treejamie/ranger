@@ -45,3 +45,4 @@ jobs:
           mix compile --force --
           mix test test/ranger_web/live/greet_live_test.exs
           mix test test/ranger_web/live/avatar_live_test.exs   
+          mix test test/ranger_web/live/counter_live_test.exs
