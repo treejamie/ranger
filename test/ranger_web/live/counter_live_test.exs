@@ -41,7 +41,7 @@ defmodule RangerWeb.CounterLiveTest do
 
   @tag :mine
   test "user can decreease count", %{conn: conn} do
-    {:ok, view, html} = live(conn, ~p"/counter")
+    {:ok, view, _html} = live(conn, ~p"/counter")
 
     view
     |> element("#decrement")
